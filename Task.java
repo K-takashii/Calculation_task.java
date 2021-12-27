@@ -21,7 +21,7 @@ class Student{
   }
 }
 
-public class Problem{
+public class Task{
   public static void main(String[] args) {
     Student a001 = new Student();
     a001.name = "sato";
